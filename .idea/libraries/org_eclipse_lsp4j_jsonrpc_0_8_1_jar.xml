@@ -1,0 +1,10 @@
+<component name="libraryTable">
+    <library name="org.eclipse.lsp4j.jsonrpc-0.8.1.jar">
+        <CLASSES>
+            <root url="jar://$PROJECT_DIR$/../../../AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.8.1/org.eclipse.lsp4j.jsonrpc-0.8.1.jar!/"/>
+        </CLASSES>
+        <SOURCES>
+            <root url="jar://$PROJECT_DIR$/../../../AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.8.1/org.eclipse.lsp4j.jsonrpc-0.8.1-sources.jar!/"/>
+        </SOURCES>
+    </library>
+</component>

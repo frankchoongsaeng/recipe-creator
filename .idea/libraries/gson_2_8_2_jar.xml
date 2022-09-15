@@ -1,0 +1,10 @@
+<component name="libraryTable">
+    <library name="gson-2.8.2.jar">
+        <CLASSES>
+            <root url="jar://$PROJECT_DIR$/../../../AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/"/>
+        </CLASSES>
+        <SOURCES>
+            <root url="jar://$PROJECT_DIR$/../../../AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.8.2/gson-2.8.2-sources.jar!/"/>
+        </SOURCES>
+    </library>
+</component>

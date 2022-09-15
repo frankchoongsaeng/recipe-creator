@@ -1,0 +1,38 @@
+[
+    {
+        "$type": "action",
+        "action": "Put a frying pan on the fire"
+    },
+    {
+        "$type": "addition",
+        "ingredient": "vegetable oil",
+        "measurement": {
+            "$type": "tbsp",
+            "quantity": 0.5
+        }
+    },
+    {
+        "$type": "action",
+        "action": "wash plantain and slice"
+    },
+    {
+        "$type": "addition",
+        "ingredient": "salt",
+        "measurement": {
+            "$type": "tsp",
+            "quantity": 0.5
+        }
+    },
+    {
+        "$type": "action",
+        "action": "add plantain to oil"
+    },
+    {
+        "$type": "action",
+        "action": "wait for 1 minute and flop plantain"
+    },
+    {
+        "$type": "action",
+        "action": "remove plantain from oil and drain with seive"
+    }
+]

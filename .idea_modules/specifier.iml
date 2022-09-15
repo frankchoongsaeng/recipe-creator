@@ -1,0 +1,48 @@
+<module type="JAVA_MODULE" version="4">
+    <component name="NewModuleRootManager">
+        <output url="file://$MODULE_DIR$/../out/specifier/ideaCompileOutput/dest/classes"/>
+        <exclude-output/>
+        <content url="file://$MODULE_DIR$/../specifier/src">
+            <sourceFolder url="file://$MODULE_DIR$/../specifier/src" isTestSource="false"/>
+        </content>
+        <content url="file://$MODULE_DIR$/../specifier/resources">
+            <sourceFolder url="file://$MODULE_DIR$/../specifier/resources" type="java-resource"/>
+        </content>
+        <orderEntry type="inheritedJdk"/>
+        <orderEntry type="sourceFolder" forTests="false"/>
+        <orderEntry type="library" name="scala-sdk-2.12.12" level="application"/>
+        <orderEntry type="library" name="Java-WebSocket-1.5.0.jar" level="project"/>
+        <orderEntry type="library" name="cask-util_2.12-0.8.3.jar" level="project"/>
+        <orderEntry type="library" name="cask_2.12-0.8.3.jar" level="project"/>
+        <orderEntry type="library" name="castor_2.12-0.1.8.jar" level="project"/>
+        <orderEntry type="library" name="cats-core_2.12-2.6.1.jar" level="project"/>
+        <orderEntry type="library" name="cats-kernel_2.12-2.6.1.jar" level="project"/>
+        <orderEntry type="library" name="circe-core_2.12-0.14.1.jar" level="project"/>
+        <orderEntry type="library" name="circe-generic_2.12-0.14.1.jar" level="project"/>
+        <orderEntry type="library" name="circe-jawn_2.12-0.14.1.jar" level="project"/>
+        <orderEntry type="library" name="circe-numbers_2.12-0.14.1.jar" level="project"/>
+        <orderEntry type="library" name="circe-parser_2.12-0.14.1.jar" level="project"/>
+        <orderEntry type="library" name="fansi_2.12-0.2.14.jar" level="project"/>
+        <orderEntry type="library" name="geny_2.12-0.7.1.jar" level="project"/>
+        <orderEntry type="library" name="jawn-parser_2.12-1.1.2.jar" level="project"/>
+        <orderEntry type="library" name="jboss-logging-3.4.1.Final.jar" level="project"/>
+        <orderEntry type="library" name="jboss-threads-3.1.0.Final.jar" level="project"/>
+        <orderEntry type="library" name="pprint_2.12-0.6.6.jar" level="project"/>
+        <orderEntry type="library" name="scala-library-2.12.12.jar" level="project"/>
+        <orderEntry type="library" name="scala-reflect-2.12.12.jar" level="project"/>
+        <orderEntry type="library" name="shapeless_2.12-2.3.7.jar" level="project"/>
+        <orderEntry type="library" name="simulacrum-scalafix-annotations_2.12-0.5.4.jar" level="project"/>
+        <orderEntry type="library" name="slf4j-api-1.7.25.jar" level="project"/>
+        <orderEntry type="library" name="sourcecode_2.12-0.2.7.jar" level="project"/>
+        <orderEntry type="library" name="ujson_2.12-1.6.0.jar" level="project"/>
+        <orderEntry type="library" name="undertow-core-2.2.3.Final.jar" level="project"/>
+        <orderEntry type="library" name="upack_2.12-1.6.0.jar" level="project"/>
+        <orderEntry type="library" name="upickle-core_2.12-1.6.0.jar" level="project"/>
+        <orderEntry type="library" name="upickle-implicits_2.12-1.6.0.jar" level="project"/>
+        <orderEntry type="library" name="upickle_2.12-1.6.0.jar" level="project"/>
+        <orderEntry type="library" name="wildfly-client-config-1.0.1.Final.jar" level="project"/>
+        <orderEntry type="library" name="wildfly-common-1.5.2.Final.jar" level="project"/>
+        <orderEntry type="library" name="xnio-api-3.8.0.Final.jar" level="project"/>
+        <orderEntry type="library" name="xnio-nio-3.8.0.Final.jar" level="project"/>
+    </component>
+</module>
