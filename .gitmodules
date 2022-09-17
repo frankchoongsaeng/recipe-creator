@@ -1,0 +1,3 @@
+[submodule "recipe-creator-ui"]
+	path = recipe-creator-ui
+	url = https://github.com/frankchoongsaeng/recipe-creator-ui.git
